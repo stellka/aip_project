@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  OpenGLPend.cpp
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(298,25): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(298,21): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(300,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(300,33): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(301,51): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(301,27): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(306,25): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(306,21): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(308,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(308,33): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(309,51): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(309,27): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(314,25): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(314,21): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(316,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(316,33): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(317,51): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(317,27): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(322,25): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(322,21): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(324,57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(324,33): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(325,51): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(325,27): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\algoprog\Проект\full\full\OpenGLPend\OpenGLPend\OpenGLPend.cpp(446,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  OpenGLPend.vcxproj -> C:\algoprog\Проект\full\full\OpenGLPend\Debug\OpenGLPend.exe
